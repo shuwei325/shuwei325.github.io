@@ -5,12 +5,28 @@
     <link>https://shuwei325.github.io/</link>
       <atom:link href="https://shuwei325.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shu Wei</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Shu Wei</title>
       <link>https://shuwei325.github.io/</link>
     </image>
+    
+    <item>
+      <title>Indirect inference for locally stationary ARMA processes with stable innovations</title>
+      <link>https://shuwei325.github.io/talk/palestra-3/</link>
+      <pubDate>Mon, 19 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/palestra-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procesos localmente estacionarios con innovaciones estables</title>
+      <link>https://shuwei325.github.io/talk/palestra-2/</link>
+      <pubDate>Wed, 14 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/palestra-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DESARROLLO E IMPLEMENTACIÓN EFICIENTE DE MODELOS PARA PROCESOS ESPACIO-TEMPORALES A TRAVÉS DE LA APROXIMACIÓN DE RESOLUCIÓN MÚLTIPLE.</title>
@@ -74,7 +90,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-596173248&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-691542837&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -84,7 +100,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-596173248&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-691542837&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

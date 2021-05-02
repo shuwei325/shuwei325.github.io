@@ -5,12 +5,28 @@
     <link>https://shuwei325.github.io/talk/</link>
       <atom:link href="https://shuwei325.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 19:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://shuwei325.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Indirect inference for locally stationary ARMA processes with stable innovations</title>
+      <link>https://shuwei325.github.io/talk/palestra-3/</link>
+      <pubDate>Mon, 19 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/palestra-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procesos localmente estacionarios con innovaciones estables</title>
+      <link>https://shuwei325.github.io/talk/palestra-2/</link>
+      <pubDate>Wed, 14 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/palestra-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>$\alpha$-stable Locally Stationary Processes</title>
