@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current | Shu Wei</title>
+    <title>Current | Shu Wei Chou</title>
     <link>https://shuwei325.github.io/tag/current/</link>
       <atom:link href="https://shuwei325.github.io/tag/current/index.xml" rel="self" type="application/rss+xml" />
     <description>Current</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>USING MACHINE LEARNING AS A PREDICTIVE TOOL FOR VECTOR-BORNE DISEASES IN COSTA RICA // USO DEL APRENDIZAJE AUTOMÁTICO COMO HERRAMIENTA PREDICTIVA PARA ENFERMEDADES VECTORIALES EN COSTA RICA</title>
+      <title>USING MACHINE LEARNING AS A PREDICTIVE TOOL FOR VECTOR-BORNE DISEASES IN COSTA RICA - USO DEL APRENDIZAJE AUTOMÁTICO COMO HERRAMIENTA PREDICTIVA PARA ENFERMEDADES VECTORIALES EN COSTA RICA</title>
       <link>https://shuwei325.github.io/project/cimpa2/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/project/cimpa2/</guid>

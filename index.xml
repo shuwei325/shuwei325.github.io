@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shu Wei</title>
+    <title>Shu Wei Chou</title>
     <link>https://shuwei325.github.io/</link>
       <atom:link href="https://shuwei325.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shu Wei</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 15:00:00 +0000</lastBuildDate>
+    <description>Shu Wei Chou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Shu Wei</title>
+      <title>Shu Wei Chou</title>
       <link>https://shuwei325.github.io/</link>
     </image>
+    
+    <item>
+      <title>Práctica Profesional 2022</title>
+      <link>https://shuwei325.github.io/announcement/practica-profesional/</link>
+      <pubDate>Sat, 03 Jul 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/announcement/practica-profesional/</guid>
+      <description>
+&lt;script src=&#34;https://shuwei325.github.io/announcement/practica-profesional/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;La Escuela de Estadística imparte los cursos XS-4410 Práctica Profesional I y XS-4430 Práctica Profesional II en el último año del plan de estudios del Bachillerato en Estadística.&lt;/p&gt;
+&lt;p&gt;El objetivo de estos cursos es que el estudiantado haga contacto con el mercado laboral en que se desarrollará, tratando de resolver problemas reales en entidades ubicadas en el país, interactuando con estadísticos(as) y con profesionales de otras disciplinas, para que conozcan y practiquen los elementos básicos que todo profesional debe poseer.&lt;/p&gt;
+&lt;p&gt;Más información, accede al siguiente &lt;a href=&#34;http://www.estadistica.ucr.ac.cr/index.php/es/bachillerato/practica&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Indirect inference for locally stationary ARMA processes with stable innovations</title>
@@ -29,7 +44,7 @@
     </item>
     
     <item>
-      <title>USING MACHINE LEARNING AS A PREDICTIVE TOOL FOR VECTOR-BORNE DISEASES IN COSTA RICA // USO DEL APRENDIZAJE AUTOMÁTICO COMO HERRAMIENTA PREDICTIVA PARA ENFERMEDADES VECTORIALES EN COSTA RICA</title>
+      <title>USING MACHINE LEARNING AS A PREDICTIVE TOOL FOR VECTOR-BORNE DISEASES IN COSTA RICA - USO DEL APRENDIZAJE AUTOMÁTICO COMO HERRAMIENTA PREDICTIVA PARA ENFERMEDADES VECTORIALES EN COSTA RICA</title>
       <link>https://shuwei325.github.io/project/cimpa2/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/project/cimpa2/</guid>
@@ -99,7 +114,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-538672149&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-354187629&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -109,7 +124,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-538672149&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-354187629&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

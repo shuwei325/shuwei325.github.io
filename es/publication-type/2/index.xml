@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Shu Wei Chou</title>
+    <link>https://shuwei325.github.io/es/publication-type/2/</link>
+      <atom:link href="https://shuwei325.github.io/es/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuwei325.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://shuwei325.github.io/es/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Indirect inference for locally stationary ARMA processes with stable innovations</title>
+      <link>https://shuwei325.github.io/es/publication/chouchen2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/chouchen2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un Modelo jerárquico Bayesiano espacio-temporal con variable de conteos; aplicación de VIH/SIDA en Costa Rica</title>
+      <link>https://shuwei325.github.io/es/publication/chouchen2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/chouchen2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecuación para estimar la biomasa arbórea en los bosques tropicales de Costa Rica</title>
+      <link>https://shuwei325.github.io/es/publication/chouchen2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/chouchen2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

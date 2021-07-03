@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current | Shu Wei Chou</title>
+    <link>https://shuwei325.github.io/es/tag/current/</link>
+      <atom:link href="https://shuwei325.github.io/es/tag/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuwei325.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Current</title>
+      <link>https://shuwei325.github.io/es/tag/current/</link>
+    </image>
+    
+    <item>
+      <title>USING MACHINE LEARNING AS A PREDICTIVE TOOL FOR VECTOR-BORNE DISEASES IN COSTA RICA - USO DEL APRENDIZAJE AUTOMÁTICO COMO HERRAMIENTA PREDICTIVA PARA ENFERMEDADES VECTORIALES EN COSTA RICA</title>
+      <link>https://shuwei325.github.io/es/project/cimpa2/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/project/cimpa2/</guid>
+      <description>&lt;p&gt;Soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DESARROLLO E IMPLEMENTACIÓN EFICIENTE DE MODELOS PARA PROCESOS ESPACIO-TEMPORALES A TRAVÉS DE LA APROXIMACIÓN DE RESOLUCIÓN MÚLTIPLE.</title>
+      <link>https://shuwei325.github.io/es/project/cimpa1/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/project/cimpa1/</guid>
+      <description>&lt;p&gt;Soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NanoICP-MS; a new statistical and interactive web application for the processing, visualization and analysis of nanoparticles suspensions using single particle ICP-MS measurements.</title>
+      <link>https://shuwei325.github.io/es/project/lcm-nist/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/project/lcm-nist/</guid>
+      <description>&lt;p&gt;Soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
