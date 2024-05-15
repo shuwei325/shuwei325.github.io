@@ -68,6 +68,15 @@
     </item>
     
     <item>
+      <title>Métodos de pronósticos de los modelos aditivos con errores simétricos autorregresivos para series temporales.</title>
+      <link>https://shuwei325.github.io/talk/conference-2023-07-jornada-cimpa/</link>
+      <pubDate>Wed, 19 Jul 2023 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/conference-2023-07-jornada-cimpa/</guid>
+      <description>&lt;p&gt;Jornada de Investigación. CIMPA, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Patrones de movilidad en tiempos de COVID-19; Un enfoque con big data</title>
       <link>https://shuwei325.github.io/publication/2023gomez/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
@@ -435,7 +444,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-934628517&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-532647891&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -445,7 +454,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-934628517&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-532647891&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
