@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlas recientes y próximas | Shu Wei Chou</title>
+    <link>https://shuwei325.github.io/es/talk/</link>
+      <atom:link href="https://shuwei325.github.io/es/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charlas recientes y próximas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Tue, 20 Feb 2024 17:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
+      <title>Charlas recientes y próximas</title>
+      <link>https://shuwei325.github.io/es/talk/</link>
+    </image>
+    
+    <item>
+      <title>Modelos lineales parciales aditivos con error simétrico autorregresivo para datos de series temporales.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2024-02-simmac/</link>
+      <pubDate>Tue, 20 Feb 2024 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2024-02-simmac/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://simmac.ucr.ac.cr/index.php/es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XXIV Simposio Internacional de Métodos Matemáticos Aplicados a las Ciencias (XXIV SIMMAC)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jornada de Investigación. CIMPA, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alcances y limitaciones de Ciencias De Datos - Perspectiva de un estadístico.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2023-11-data-coffee/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2023-11-data-coffee/</guid>
+      <description>&lt;p&gt;Vicerrectoría de Investigación, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Métodos de pronósticos de los modelos aditivos con errores simétricos autorregresivos para series temporales.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2023-07-jornada-cimpa/</link>
+      <pubDate>Wed, 19 Jul 2023 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2023-07-jornada-cimpa/</guid>
+      <description>&lt;p&gt;Jornada de Investigación. CIMPA, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelos predictivos aplicados a datos climáticos y dengue. Un enfoque espacio-temporal y de aprendizaje de máquinas.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2023-05-xalapa/</link>
+      <pubDate>Mon, 22 May 2023 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2023-05-xalapa/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/foroestadisticaaplicada/p%C3%A1gina-principal?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XII Foro Internacional de Estadístsica&lt;/a&gt;, Facultad de Estadística e Informática, Universidad Veracruzana, México.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicción de los riesgos de dengue en Costa Rica mediante el uso de variables climáticas y técnicas de aprendizaje automático.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2022-08-jornadas-estadistica/</link>
+      <pubDate>Fri, 26 Aug 2022 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2022-08-jornadas-estadistica/</guid>
+      <description>&lt;p&gt;XV Jornadas de Análisis Estadístico, Escuela de Estadística, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2022-05-davis/</link>
+      <pubDate>Mon, 16 May 2022 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2022-05-davis/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mailchi.mp/312792d40c74/eventodavis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on climate change, human behavior, and vector-borne diseases&lt;/a&gt;. Department of Public Health Sciences. University of California, Davis, USA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extensión de modelos de regresión no lineales para analizar información temporalmente rezagada. Aplicaciones en epidemiología, agricultura y otras.</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2022-03-jornada-cimpa/</link>
+      <pubDate>Wed, 16 Mar 2022 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2022-03-jornada-cimpa/</guid>
+      <description>&lt;p&gt;Jornada de Investigación. CIMPA, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Procesos localmente estacionarios con innovaciones estables y estables temperadas</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2021-11/</link>
+      <pubDate>Fri, 12 Nov 2021 17:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2021-11/</guid>
+      <description>&lt;p&gt;Seminario. Posgrado de Estadística, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indirect inference for locally stationary ARMA processes with stable innovations</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2021-04b/</link>
+      <pubDate>Mon, 19 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2021-04b/</guid>
+      <description>&lt;p&gt;Seminário. Departamento de Estatística, UFRN, Brasil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Procesos localmente estacionarios con innovaciones estables</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2021-04a/</link>
+      <pubDate>Wed, 14 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2021-04a/</guid>
+      <description>&lt;p&gt;Seminario. CIMPA, UCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>$\alpha$-stable Locally Stationary Processes</title>
+      <link>https://shuwei325.github.io/es/talk/conference-2019-09/</link>
+      <pubDate>Tue, 10 Sep 2019 19:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/talk/conference-2019-09/</guid>
+      <description>&lt;p&gt;Seminário. UFSM, Brasil.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

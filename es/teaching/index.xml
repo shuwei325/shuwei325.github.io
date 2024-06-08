@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docencia | Shu Wei Chou</title>
+    <link>https://shuwei325.github.io/es/teaching/</link>
+      <atom:link href="https://shuwei325.github.io/es/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Docencia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language>
+    <image>
+      <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
+      <title>Docencia</title>
+      <link>https://shuwei325.github.io/es/teaching/</link>
+    </image>
+    
+  </channel>
+</rss>

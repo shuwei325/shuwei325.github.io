@@ -1,0 +1,17 @@
+@Article{ChouChen2023,
+  author   = {Chou-Chen, Shu Wei and Barboza, Luis A. and Vásquez, Paola and García, Yury E. and Calvo, Juan G. and Hidalgo, Hugo G. and Sanchez, Fabio},
+  journal  = {Environmental and Ecological Statistics},
+  title    = {Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica},
+  year     = {2023},
+  issn     = {1573-3009},
+  month    = dec,
+  number   = {4},
+  pages    = {687–713},
+  volume   = {30},
+  abstract = {Due to the rapid geographic spread of the Aedes mosquito and the increase in dengue incidence, dengue fever has been an increasing concern for public health authorities in tropical and subtropical countries worldwide. Significant challenges such as climate change, the burden on health systems, and the rise of insecticide resistance highlight the need to introduce new and cost-effective tools for developing public health interventions. Various and locally adapted statistical methods for developing climate-based early warning systems have increasingly been an area of interest and research worldwide. Costa Rica, a country with microclimates and endemic circulation of the dengue virus (DENV) since 1993, provides ideal conditions for developing projection models with the potential to help guide public health efforts and interventions to control and monitor future dengue outbreaks. Climate information was incorporated to model and forecast the dengue cases and relative risks using a Bayesian spatio-temporal model, from 2000 to 2021, in 32 Costa Rican municipalities. This approach is capable of analyzing the spatio-temporal behavior of dengue and also producing reliable predictions.},
+  doi      = {10.1007/s10651-023-00580-9},
+  refid    = {Chou-Chen2023},
+  url      = {https://doi.org/10.1007/s10651-023-00580-9},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

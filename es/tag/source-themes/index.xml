@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Shu Wei Chou</title>
+    <link>https://shuwei325.github.io/es/tag/source-themes/</link>
+      <atom:link href="https://shuwei325.github.io/es/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
+      <title>Source Themes</title>
+      <link>https://shuwei325.github.io/es/tag/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica</title>
+      <link>https://shuwei325.github.io/es/publication/2023chou-chen_dengue-inla/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2023chou-chen_dengue-inla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica; A wavelet approach</title>
+      <link>https://shuwei325.github.io/es/publication/2023garcia/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2023garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrones de movilidad en tiempos de COVID-19; Un enfoque con big data</title>
+      <link>https://shuwei325.github.io/es/publication/2023gomez/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2023gomez/</guid>
+      <description>&lt;h3 id=&#34;resumen&#34;&gt;Resumen:&lt;/h3&gt;
+&lt;p&gt;La movilidad en Costa Rica es un tema complejo debido a la falta de ordenamiento territorial de la Gran Área Metropolitana (GAM). La crisis sanitaria global causada por la pandemia del COVID-19 cambió considerablemente los patrones de movilidad en el país a causa de restricciones vehiculares, y de actividades económicas, impuestas por el gobierno para contener los contagios del virus. Con el uso de las técnicas de &lt;em&gt;big data&lt;/em&gt; y los datos de Waze, se analiza la congestión vial (como &lt;em&gt;proxy&lt;/em&gt; de la movilidad de población) antes (2019) y durante la pandemia (marzo a diciembre de 2020). Además, se analiza la relación entre los flujos de movilidad de la población, junto con variables sociodemográficas, y los contagios de COVID-19. Los análisis realizados muestran que la movilidad de población cambió drásticamente con la pandemia, y que la movilidad y las variables sociodemográficas estudiadas están asociadas con la cantidad de contagios por COVID-19. Estos resultados sirven como una inspección del fenómeno ocurrido tan complejo, y también como un insumo para valorar la factibilidad de aplicar medidas sobre el tránsito en condiciones posteriores a la pandemia, con el fin de reducir los tiempos perdidos por la congestión, la contaminación y otras externalidades negativas que produce el fuerte embotellamiento en la GAM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal downscaling emulator for regional climate models</title>
+      <link>https://shuwei325.github.io/es/publication/2023barboza_b/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2023barboza_b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-step estimation procedure for locally stationary ARMA processes with tempered stable innovations</title>
+      <link>https://shuwei325.github.io/es/publication/2023chouchen_tempered/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2023chouchen_tempered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques</title>
+      <link>https://shuwei325.github.io/es/publication/2023barboza_a/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2023barboza_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical and statistical models for the control of mosquito-borne diseases, the experience of Costa Rica</title>
+      <link>https://shuwei325.github.io/es/publication/2022vasquez/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2022vasquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indirect inference for locally stationary ARMA processes with stable innovations</title>
+      <link>https://shuwei325.github.io/es/publication/2020chouchen/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2020chouchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un Modelo jerárquico Bayesiano espacio-temporal con variable de conteos; aplicación de VIH/SIDA en Costa Rica</title>
+      <link>https://shuwei325.github.io/es/publication/2018chouchen/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2018chouchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecuación para estimar la biomasa arbórea en los bosques tropicales de Costa Rica</title>
+      <link>https://shuwei325.github.io/es/publication/2013chouchen/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2013chouchen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
