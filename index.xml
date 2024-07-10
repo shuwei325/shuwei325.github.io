@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Additive partial linear models with autoregressive symmetric errors and its application to the hospitalizations for respiratory diseases</title>
+      <link>https://shuwei325.github.io/publication/2024chou-chen_aplms/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/publication/2024chou-chen_aplms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting hospital discharges for respiratory conditions in Costa Rica using climate and pollution data</title>
+      <link>https://shuwei325.github.io/publication/2024chou-chen_hospitalization/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/publication/2024chou-chen_hospitalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelos lineales parciales aditivos con error simétrico autorregresivo para datos de series temporales.</title>
       <link>https://shuwei325.github.io/talk/conference-2024-02-simmac/</link>
       <pubDate>Tue, 20 Feb 2024 17:00:00 +0000</pubDate>
@@ -444,7 +460,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-625381497&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-325786914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -454,7 +470,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-625381497&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-325786914&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
