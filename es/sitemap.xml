@@ -30,6 +30,34 @@
                 href="https://shuwei325.github.io/es/event/"
                 />
   </url><url>
+    <loc>https://shuwei325.github.io/es/talk/conference-2024-12-ncku/</loc>
+    <lastmod>2024-12-12T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/talk/conference-2024-12-ncku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/talk/conference-2024-12-ncku/"
+                />
+  </url><url>
+    <loc>https://shuwei325.github.io/es/talk/</loc>
+    <lastmod>2024-12-12T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/talk/"
+                />
+  </url><url>
     <loc>https://shuwei325.github.io/es/publication-type/2/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,20 +154,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://shuwei325.github.io/es/publication/2024chou-chen_hospitalization/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/talk/</loc>
-    <lastmod>2024-02-20T17:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/talk/"
                 />
   </url><url>
     <loc>https://shuwei325.github.io/es/talk/conference-2024-02-simmac/</loc>
@@ -729,19 +743,6 @@
                 href="https://shuwei325.github.io/es/admin/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/teaching/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/teaching/"
-                />
-  </url><url>
     <loc>https://shuwei325.github.io/es/research/spatio-temporal-analysis/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -753,6 +754,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://shuwei325.github.io/es/research/spatio-temporal-analysis/"
+                />
+  </url><url>
+    <loc>https://shuwei325.github.io/es/teaching/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/teaching/"
                 />
   </url><url>
     <loc>https://shuwei325.github.io/es/research/time-series-analysis/</loc>

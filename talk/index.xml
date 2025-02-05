@@ -5,12 +5,20 @@
     <link>https://shuwei325.github.io/talk/</link>
       <atom:link href="https://shuwei325.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Tue, 20 Feb 2024 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Thu, 12 Dec 2024 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://shuwei325.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Additive Partial Linear Models with Symmetric Autoregressive Errors and their Forecasting Methods.</title>
+      <link>https://shuwei325.github.io/talk/conference-2024-12-ncku/</link>
+      <pubDate>Thu, 12 Dec 2024 14:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/conference-2024-12-ncku/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modelos lineales parciales aditivos con error simétrico autorregresivo para datos de series temporales.</title>
