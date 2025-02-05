@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Additive partial linear models with autoregressive symmetric errors and its application to the	hospitalizations for respiratory diseases.</title>
+      <link>https://shuwei325.github.io/talk/conference-2024-12-iasc/</link>
+      <pubDate>Sat, 14 Dec 2024 14:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/talk/conference-2024-12-iasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Additive Partial Linear Models with Symmetric Autoregressive Errors and their Forecasting Methods.</title>
       <link>https://shuwei325.github.io/talk/conference-2024-12-ncku/</link>
       <pubDate>Thu, 12 Dec 2024 14:00:00 +0000</pubDate>
@@ -468,7 +476,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-159843627&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-384956712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -478,7 +486,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-159843627&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-384956712&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
