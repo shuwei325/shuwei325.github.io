@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shu Wei Chou</title>
+    <title>Shu Wei Chou Chen</title>
     <link>https://shuwei325.github.io/</link>
       <atom:link href="https://shuwei325.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shu Wei Chou</description>
+    <description>Shu Wei Chou Chen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
-      <title>Shu Wei Chou</title>
+      <title>Shu Wei Chou Chen</title>
       <link>https://shuwei325.github.io/</link>
     </image>
     
@@ -127,6 +127,33 @@
     </item>
     
     <item>
+      <title>Applications</title>
+      <link>https://shuwei325.github.io/research/3_applications/</link>
+      <pubDate>Sat, 01 Jul 2023 03:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/research/3_applications/</guid>
+      <description>&lt;p&gt;The use of statistical and machine learning methods to analyze data, draw meaningful conclusions, and make informed decisions in diverse areas of applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal Analysis</title>
+      <link>https://shuwei325.github.io/research/2_spatio-temporal-analysis/</link>
+      <pubDate>Sat, 01 Jul 2023 02:00:02 +0000</pubDate>
+      <guid>https://shuwei325.github.io/research/2_spatio-temporal-analysis/</guid>
+      <description>&lt;p&gt;Statistical methods that analyze and interpret data that is collected not only over a period of time but also across a spatial domain. This involves analyzing spatial and temporal patterns and changes in the data over both space and time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis</title>
+      <link>https://shuwei325.github.io/research/1_time-series-analysis/</link>
+      <pubDate>Sat, 01 Jul 2023 01:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/research/1_time-series-analysis/</guid>
+      <description>&lt;p&gt;An area of statistics that analyzes and interprets data collected or recorded over a period of time, in order to extract meaningful characteristics in time and forecast future values.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Patrones de movilidad en tiempos de COVID-19; Un enfoque con big data</title>
       <link>https://shuwei325.github.io/publication/2023gomez/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
@@ -159,18 +186,6 @@
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2023chouchen_tempered/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Applications</title>
-      <link>https://shuwei325.github.io/research/applications/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/research/applications/</guid>
-      <description>&lt;h2 id=&#34;related-projects&#34;&gt;Related projects:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Using machine learning as a predictive tool for vector-borne diseases in Costa Rica - uso del aprendizaje automático como herramienta predictiva para enfermedades vectoriales en Costa Rica&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
@@ -320,6 +335,21 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aplms package</title>
+      <link>https://shuwei325.github.io/software/aplms/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://shuwei325.github.io/software/aplms/</guid>
+      <description>
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://shuwei325.github.io/aplms/&#34;&gt;The aplms website&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;the aplms package on &lt;a href=&#34;https://cran.r-project.org/web/packages/aplms/index.html&#34;&gt;CRAN&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -494,7 +524,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-724961358&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-576894123&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -504,7 +534,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-724961358&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-576894123&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -977,27 +1007,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://shuwei325.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://shuwei325.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ecuación para estimar la biomasa arbórea en los bosques tropicales de Costa Rica</title>
       <link>https://shuwei325.github.io/publication/2013chouchen/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
@@ -1011,30 +1020,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Spatio-temporal Analysis</title>
-      <link>https://shuwei325.github.io/research/spatio-temporal-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/research/spatio-temporal-analysis/</guid>
-      <description>&lt;h2 id=&#34;related-projects&#34;&gt;Related projects:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Desarrollo e implementación eficiente de modelos para procesos espacio-temporales a través de la aproximación de resolución múltiple.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Time Series Analysis</title>
-      <link>https://shuwei325.github.io/research/time-series-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/research/time-series-analysis/</guid>
-      <description>&lt;h2 id=&#34;related-projects&#34;&gt;Related projects:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Locally stationary processes with stable and tempered stable innovations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

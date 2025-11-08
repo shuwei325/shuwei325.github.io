@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shu Wei Chou</title>
+    <title>Research | Shu Wei Chou Chen</title>
     <link>https://shuwei325.github.io/es/research/</link>
       <atom:link href="https://shuwei325.github.io/es/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shu Wei Chou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language>
     <image>
       <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
-      <title>Shu Wei Chou</title>
+      <title>Research</title>
       <link>https://shuwei325.github.io/es/research/</link>
     </image>
-    
-    <item>
-      <title>Applications</title>
-      <link>https://shuwei325.github.io/es/research/applications/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/es/research/applications/</guid>
-      <description>&lt;h2 id=&#34;related-projects&#34;&gt;Related projects:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Using machine learning as a predictive tool for vector-borne diseases in Costa Rica - uso del aprendizaje automático como herramienta predictiva para enfermedades vectoriales en Costa Rica&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spatio-temporal Analysis</title>
-      <link>https://shuwei325.github.io/es/research/spatio-temporal-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/es/research/spatio-temporal-analysis/</guid>
-      <description>&lt;h2 id=&#34;related-projects&#34;&gt;Related projects:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Desarrollo e implementación eficiente de modelos para procesos espacio-temporales a través de la aproximación de resolución múltiple.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Time Series Analysis</title>
-      <link>https://shuwei325.github.io/es/research/time-series-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/es/research/time-series-analysis/</guid>
-      <description>&lt;h2 id=&#34;related-projects&#34;&gt;Related projects:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Locally stationary processes with stable and tempered stable innovations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

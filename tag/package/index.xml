@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>package | Shu Wei Chou Chen</title>
+    <link>https://shuwei325.github.io/tag/package/</link>
+      <atom:link href="https://shuwei325.github.io/tag/package/index.xml" rel="self" type="application/rss+xml" />
+    <description>package</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
+      <title>package</title>
+      <link>https://shuwei325.github.io/tag/package/</link>
+    </image>
+    
+    <item>
+      <title>aplms package</title>
+      <link>https://shuwei325.github.io/software/aplms/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://shuwei325.github.io/software/aplms/</guid>
+      <description>
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://shuwei325.github.io/aplms/&#34;&gt;The aplms website&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;the aplms package on &lt;a href=&#34;https://cran.r-project.org/web/packages/aplms/index.html&#34;&gt;CRAN&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

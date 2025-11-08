@@ -310,48 +310,6 @@
                 href="https://shuwei325.github.io/es/publication/2023chouchen_tempered/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/research/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/research/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/research/applications/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/research/applications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/research/applications/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/tag/past/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/tag/past/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/tag/past/"
-                />
-  </url><url>
     <loc>https://shuwei325.github.io/es/publication/2023barboza_a/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -674,76 +632,6 @@
                 href="https://shuwei325.github.io/es/publication/2018chouchen/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/tag/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/tag/deep-learning/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/tag/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/tag/demo/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/project/example/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/project/external-project/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/project/"
-                />
-  </url><url>
     <loc>https://shuwei325.github.io/es/publication/2013chouchen/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -771,17 +659,30 @@
                 href="https://shuwei325.github.io/es/admin/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/research/spatio-temporal-analysis/</loc>
+    <loc>https://shuwei325.github.io/es/misc/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shuwei325.github.io/research/spatio-temporal-analysis/"
+                href="https://shuwei325.github.io/misc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://shuwei325.github.io/es/research/spatio-temporal-analysis/"
+                href="https://shuwei325.github.io/es/misc/"
+                />
+  </url><url>
+    <loc>https://shuwei325.github.io/es/research/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/research/"
                 />
   </url><url>
     <loc>https://shuwei325.github.io/es/teaching/</loc>
@@ -795,19 +696,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://shuwei325.github.io/es/teaching/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/research/time-series-analysis/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/research/time-series-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/research/time-series-analysis/"
                 />
   </url>
 </urlset>
