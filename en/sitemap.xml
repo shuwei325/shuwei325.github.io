@@ -601,6 +601,19 @@
                 href="https://shuwei325.github.io/admin/"
                 />
   </url><url>
+    <loc>https://shuwei325.github.io/misc/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/misc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/misc/"
+                />
+  </url><url>
     <loc>https://shuwei325.github.io/teaching/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
