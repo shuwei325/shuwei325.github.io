@@ -518,8 +518,18 @@
                 href="https://shuwei325.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/misc/</loc>
+    <loc>https://shuwei325.github.io/es/misc2/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/misc2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/misc2/"
+                />
   </url><url>
     <loc>https://shuwei325.github.io/es/research/</loc>
     <changefreq>weekly</changefreq>
