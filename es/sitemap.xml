@@ -661,16 +661,6 @@
   </url><url>
     <loc>https://shuwei325.github.io/es/misc/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/misc/"
-                />
   </url><url>
     <loc>https://shuwei325.github.io/es/research/</loc>
     <changefreq>weekly</changefreq>
