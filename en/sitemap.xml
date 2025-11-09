@@ -470,40 +470,6 @@
                 href="https://shuwei325.github.io/talk/conference-2021-04a/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/software/aplms/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuwei325.github.io/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/tag/package/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuwei325.github.io/software/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuwei325.github.io/tag/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shuwei325.github.io/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://shuwei325.github.io/publication/2020chouchen/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -599,6 +565,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shuwei325.github.io/admin/"
+                />
+  </url><url>
+    <loc>https://shuwei325.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://shuwei325.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shuwei325.github.io/categories/"
                 />
   </url><url>
     <loc>https://shuwei325.github.io/misc/</loc>
