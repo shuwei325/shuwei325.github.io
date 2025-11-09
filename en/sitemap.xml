@@ -501,30 +501,10 @@
     <loc>https://shuwei325.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/slides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/slides/"
-                />
   </url><url>
     <loc>https://shuwei325.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/slides/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/slides/example/"
-                />
   </url><url>
     <loc>https://shuwei325.github.io/publication/2018chouchen/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
@@ -580,18 +560,8 @@
                 href="https://shuwei325.github.io/categories/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/misc/</loc>
+    <loc>https://shuwei325.github.io/teaching2/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/misc/"
-                />
   </url><url>
     <loc>https://shuwei325.github.io/teaching/</loc>
     <changefreq>weekly</changefreq>
