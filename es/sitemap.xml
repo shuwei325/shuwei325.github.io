@@ -436,104 +436,6 @@
                 href="https://shuwei325.github.io/es/talk/conference-2021-04a/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/tag/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/tag/academic/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/categories/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/category/demo/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/post/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/post/getting-started/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/tag/%E5%BC%80%E6%BA%90/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/category/%E6%95%99%E7%A8%8B/"
-                />
-  </url><url>
     <loc>https://shuwei325.github.io/es/publication/2020chouchen/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -560,34 +462,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://shuwei325.github.io/es/talk/conference-2019-09/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/post/writing-technical-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/post/writing-technical-content/"
-                />
-  </url><url>
-    <loc>https://shuwei325.github.io/es/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shuwei325.github.io/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://shuwei325.github.io/es/post/jupyter/"
                 />
   </url><url>
     <loc>https://shuwei325.github.io/es/slides/</loc>
@@ -659,17 +533,17 @@
                 href="https://shuwei325.github.io/es/admin/"
                 />
   </url><url>
-    <loc>https://shuwei325.github.io/es/misc/</loc>
+    <loc>https://shuwei325.github.io/es/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shuwei325.github.io/misc/"
+                href="https://shuwei325.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://shuwei325.github.io/es/misc/"
+                href="https://shuwei325.github.io/es/categories/"
                 />
   </url><url>
     <loc>https://shuwei325.github.io/es/research/</loc>
