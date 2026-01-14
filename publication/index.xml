@@ -5,7 +5,7 @@
     <link>https://shuwei325.github.io/publication/</link>
       <atom:link href="https://shuwei325.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Hurricane Impact Index: Capturing Direct and Indirect Cyclone Effects in Central America</title>
+      <link>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detection and attribution of trends of meteorological extremes in Central America</title>
       <link>https://shuwei325.github.io/publication/2025hidalgo/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2025hidalgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and attribution of trends of meteorological extremes in Central America</title>
+      <link>https://shuwei325.github.io/publication/2026camacho/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/publication/2026camacho/</guid>
       <description></description>
     </item>
     
@@ -45,15 +61,7 @@
     </item>
     
     <item>
-      <title>Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica</title>
-      <link>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica; A wavelet approach</title>
+      <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach</title>
       <link>https://shuwei325.github.io/publication/2023garcia/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2023garcia/</guid>
@@ -61,7 +69,7 @@
     </item>
     
     <item>
-      <title>Patrones de movilidad en tiempos de COVID-19; Un enfoque con big data</title>
+      <title>Patrones de movilidad en tiempos de COVID-19: Un enfoque con big data</title>
       <link>https://shuwei325.github.io/publication/2023gomez/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2023gomez/</guid>
@@ -111,7 +119,7 @@
     </item>
     
     <item>
-      <title>Un Modelo jerárquico Bayesiano espacio-temporal con variable de conteos; aplicación de VIH/SIDA en Costa Rica</title>
+      <title>Un Modelo jerárquico Bayesiano espacio-temporal con variable de conteos: aplicación de VIH/SIDA en Costa Rica</title>
       <link>https://shuwei325.github.io/publication/2018chouchen/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2018chouchen/</guid>

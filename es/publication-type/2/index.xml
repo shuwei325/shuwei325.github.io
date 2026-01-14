@@ -5,12 +5,20 @@
     <link>https://shuwei325.github.io/es/publication-type/2/</link>
       <atom:link href="https://shuwei325.github.io/es/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shuwei325.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://shuwei325.github.io/es/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Detection and attribution of trends of meteorological extremes in Central America</title>
+      <link>https://shuwei325.github.io/es/publication/2026camacho/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/es/publication/2026camacho/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unsupervised Detection of Anomaly in Public Procurement Processes</title>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica; A wavelet approach</title>
+      <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach</title>
       <link>https://shuwei325.github.io/es/publication/2023garcia/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/es/publication/2023garcia/</guid>
@@ -53,7 +61,7 @@
     </item>
     
     <item>
-      <title>Patrones de movilidad en tiempos de COVID-19; Un enfoque con big data</title>
+      <title>Patrones de movilidad en tiempos de COVID-19: Un enfoque con big data</title>
       <link>https://shuwei325.github.io/es/publication/2023gomez/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/es/publication/2023gomez/</guid>
@@ -103,7 +111,7 @@
     </item>
     
     <item>
-      <title>Un Modelo jerárquico Bayesiano espacio-temporal con variable de conteos; aplicación de VIH/SIDA en Costa Rica</title>
+      <title>Un Modelo jerárquico Bayesiano espacio-temporal con variable de conteos: aplicación de VIH/SIDA en Costa Rica</title>
       <link>https://shuwei325.github.io/es/publication/2018chouchen/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/es/publication/2018chouchen/</guid>
