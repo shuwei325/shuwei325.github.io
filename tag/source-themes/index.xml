@@ -14,9 +14,9 @@
     
     <item>
       <title>Hurricane Impact Index: Capturing Direct and Indirect Cyclone Effects in Central America</title>
-      <link>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</link>
+      <link>https://shuwei325.github.io/publication/2026camacho/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</guid>
+      <guid>https://shuwei325.github.io/publication/2026camacho/</guid>
       <description></description>
     </item>
     
@@ -25,14 +25,6 @@
       <link>https://shuwei325.github.io/publication/2025hidalgo/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2025hidalgo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detection and attribution of trends of meteorological extremes in Central America</title>
-      <link>https://shuwei325.github.io/publication/2026camacho/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://shuwei325.github.io/publication/2026camacho/</guid>
       <description></description>
     </item>
     
@@ -57,6 +49,14 @@
       <link>https://shuwei325.github.io/publication/2024chou-chen_hospitalization/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://shuwei325.github.io/publication/2024chou-chen_hospitalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian spatio-temporal model with INLA for dengue fever risk prediction in Costa Rica</title>
+      <link>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://shuwei325.github.io/publication/2023chou-chen_dengue-inla/</guid>
       <description></description>
     </item>
     
